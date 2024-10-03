@@ -2,7 +2,7 @@
 ## Création d'une Adresse Email avec ProtonMail 📧
 Une adresse email sans numéro de téléphone, c'est possible grâce à ProtonMail. Suivez ces étapes :
 
-![Proton](Images/ProtonMail.png)
+![Proton](Image/ProtonMail.png)
 
 - 🔗 Accédez à ProtonMail : [Voici le lien.](https://proton.me/fr/mail)
 - ✍️ Choisissez "S'inscrire" : Suivez les instructions à l'écran.
@@ -14,7 +14,7 @@ Une adresse email sans numéro de téléphone, c'est possible grâce à ProtonMa
 ## Création d'un Compte Discord 🗨️
 Créer un compte Discord est facile, mais attention à l'âge :
 
-![Discord](Images/Discord.png)
+![Discord](Image/Discord.png)
 
 - 🔗 Rendez-vous sur Discord : [le lien vers Discord ici](https://discord.com)
 - ✍️ Inscrivez-vous : Remplissez les champs requis.
@@ -25,7 +25,7 @@ Créer un compte Discord est facile, mais attention à l'âge :
 ## Création d'un Compte GDevelop 🎮
 Pour commencer à créer vos jeux, un compte GDevelop est essentiel :
 
-![Gdevelop](Images/Gdevelop.png)
+![Gdevelop](Image/Gdevelop.png)
 
 - 🔗 Visitez GDevelop : [le lien vers GDevelop ici](https://editor.gdevelop.io/?utm_campaign=try&utm_medium=website&utm_source=hero)
 - ✍️ Cliquez sur "S'inscrire" : Remplissez les informations nécessaires.
